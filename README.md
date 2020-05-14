@@ -3,11 +3,11 @@ SignChat application is an iOS application which translate sign language. It app
 ## Installation
 1. Follw the [instructions](https://github.com/google/mediapipe/blob/master/mediapipe/docs/mediapipe_ios_setup.md) to set up Mediapipe for iOS.
 2. Remove all the files in `mediapipe/examples/ios/multihandtrackinggpu`.
-   <p>
+   
    ```
    rm -r mediapipe/examples/ios/multihandtrackinggpu/*
    ```
-   </p>
+   
 3. Clone the SignChat repository to folder `mediapipe/examples/ios/multihandtrackinggpu`.
    ```
    cd mediapipe/examples/ios/multihandtrackinggpu
